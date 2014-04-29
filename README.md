@@ -1,0 +1,4 @@
+PanaromaGL
+==========
+
+PanoramaGL library was the first open source library in the world to see panoramic views on the iPhone and iPod Touch.  The supported features in version 0.1 are:  - Run on iPhone, iPod Touch and iPad   - Tested with SDK 4.x to 5.x   - Supports OpenGL ES 1.1  - Supports spherical, cubic and cylindrical panoramic images  - Allows scrolling and continuous scrolling  - Supports scrolling left to right and from top to bottom using the accelerometer  - Allows to use the inertia to stop scrolling  - Supports zoom in and zoom out (moving two fingers on the screen)  - Supports reset (placing three fingers on the screen or shaking the device)  - Allows you to control the range of rotation in the x and y axis  - Support for view events  - Support for hotspots  - Support for movement with simulated gyroscope (Only compatible with devices with Magnetometer and Accelerometer)
